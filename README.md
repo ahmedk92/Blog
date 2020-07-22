@@ -1,5 +1,3 @@
-# [test](https://github.com/ahmedk92/Blog/issues/21)
-
 # [How to become an iOS wizard](https://github.com/ahmedk92/Blog/issues/20)
 
 # [Covert Coordinators](https://github.com/ahmedk92/Blog/issues/19)
