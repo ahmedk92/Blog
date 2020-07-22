@@ -1,4 +1,4 @@
-# [How to become an iOS wizard](https://github.com/ahmedk92/Blog/issues/20)
+# [How to become an iOS wizard (Reader Submitted)](https://github.com/ahmedk92/Blog/issues/20)
 
 # [Covert Coordinators](https://github.com/ahmedk92/Blog/issues/19)
 
