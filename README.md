@@ -18,6 +18,7 @@
 - [Enabling Optimizations for CocoaPods in Debug Mode](https://github.com/ahmedk92/Blog/issues/3)
 - [Acheiving Dynamic Localisation in iOS](https://github.com/ahmedk92/Blog/issues/2)
 - [WKWebView Horizontal Paging](https://github.com/ahmedk92/Blog/issues/1)
+
 ### Questions:
 - [When to decide to use Core Data in an Application?](https://github.com/ahmedk92/Blog/issues/22)
-- [How to become an iOS wizard (Reader Submitted)](https://github.com/ahmedk92/Blog/issues/20)
+- [How to become an iOS wizard](https://github.com/ahmedk92/Blog/issues/20)
