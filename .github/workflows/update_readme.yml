@@ -43,7 +43,7 @@ jobs:
               const line = "- ["+post.title+"]("+post.html_url+")\n";
               readmeContents += line;
              }
-             readmeContents += "### Questions:\n";
+             readmeContents += "\n### Questions:\n";
              for (const question of questions) {
               const line = "- ["+question.title+"]("+question.html_url+")\n";
               readmeContents += line;
