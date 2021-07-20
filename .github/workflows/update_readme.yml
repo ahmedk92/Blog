@@ -15,7 +15,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/github-script@82b33c8
+      - uses: actions/github-script@82b33c82ef5e155cb8e0de0862e5dbde0cd451eb
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
