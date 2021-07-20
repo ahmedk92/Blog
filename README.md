@@ -1,4 +1,6 @@
 ### Posts:
+- [test](https://github.com/ahmedk92/Blog/issues/26)
+- [A practical use for guard statements](https://github.com/ahmedk92/Blog/issues/25)
 - [Clearing Stateful Subjects](https://github.com/ahmedk92/Blog/issues/23)
 - [Covert Coordinators](https://github.com/ahmedk92/Blog/issues/19)
 - [Animating With Core Graphics If You Have To](https://github.com/ahmedk92/Blog/issues/18)
