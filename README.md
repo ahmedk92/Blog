@@ -1,4 +1,5 @@
 ### Posts:
+- [Thoughts about the ViewModel](https://github.com/ahmedk92/Blog/issues/29)
 - [Thoughts about Kotlin multi-platform](https://github.com/ahmedk92/Blog/issues/28)
 - [Thoughts about Clean Architecture™](https://github.com/ahmedk92/Blog/issues/27)
 - [A practical use for guard statements](https://github.com/ahmedk92/Blog/issues/25)
