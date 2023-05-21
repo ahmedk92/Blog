@@ -1,4 +1,5 @@
 ### Posts:
+- [Conventions, conformity, and code review](https://github.com/ahmedk92/Blog/issues/32)
 - [Unit testing async await](https://github.com/ahmedk92/Blog/issues/31)
 - [Is mutability always bad?](https://github.com/ahmedk92/Blog/issues/30)
 - [Thoughts about the ViewModel](https://github.com/ahmedk92/Blog/issues/29)
